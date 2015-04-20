@@ -40,3 +40,6 @@ Load Testing
 
 Code Analysis
 * SensioLabsInsight - https://insight.sensiolabs.com
+
+Site Monitoring
+* StatusCake - https://www.statuscake.com/ - does SSL, RUM, global checks, all sorts of stuff
